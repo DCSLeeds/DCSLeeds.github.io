@@ -1,6 +1,6 @@
 # DCS University of Leeds
 
-## Supplimentary material for the paper _Challenges in the application of machine learning to engineering design_
+## Supplementary material for the paper _Challenges in the application of machine learning to engineering design_
 
 [Link to paper](https://www.google.com)
 
