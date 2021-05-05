@@ -9,7 +9,7 @@
 <iframe src="/Figures/scatter_main_annotated.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="800"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -21,7 +21,7 @@ Graph level embedding principal component analysis for cakebox parts with proces
 <iframe src="/Figures/scatter_zoomed_annotated.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="800"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
