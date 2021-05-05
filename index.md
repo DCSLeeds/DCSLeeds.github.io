@@ -6,14 +6,24 @@
 
 [Link to code](https://www.google.com)
 
-+-- Figures
-    --scatter_main_annotated.html
+<iframe src="/Figures/scatter_main_annotated.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 # Figure 10
 Graph level embedding principal component analysis for cakebox parts with processing type highlight after being process by the deep learning network (whole data set).
 
-+-- Figures
-    --scatter_zoomed_annotated.html
+<iframe src="/Figures/scatter_zoomed_annotated.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 # Figure 11
 Graph level embedding principal component analysis for cakebox parts with processing type highlight after being process by the deep learning network (zoomed data set).
