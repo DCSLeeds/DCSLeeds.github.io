@@ -15,8 +15,8 @@
     frameborder="0">
 </iframe>
 
-# Figure 10
-Graph level embedding principal component analysis for cakebox parts with processing type highlight after being process by the deep learning network (whole data set).
+# Figure 8
+Graph level embedding principal component analysis for sintering machine parts with processing type highlight after being processed by the deep learning network (whole data set). The section in the blue box is zoomed in Figure 9
 
 <iframe src="/Figures/scatter_zoomed_annotated.html"
     sandbox="allow-same-origin allow-scripts"
@@ -27,5 +27,5 @@ Graph level embedding principal component analysis for cakebox parts with proces
     frameborder="0">
 </iframe>
 
-# Figure 11
-Graph level embedding principal component analysis for cakebox parts with processing type highlight after being process by the deep learning network (zoomed data set).
+# Figure 9
+Zoomed in graph level embedding principal component analysis for sintering machine parts with processing type highlight after being processed by the deep learning network (zoomed data set). 
