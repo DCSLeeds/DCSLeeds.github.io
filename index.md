@@ -1,6 +1,6 @@
 # DCS University of Leeds
 
-## Supplementary material for the paper _Challenges in the application of machine learning to engineering design_
+## Supplementary material for the paper _PSS9K: A Dataset of Human Perceptions of Part Similarity with Applications in Engineering Design_
 
 [Link to paper](https://www.google.com)
 
