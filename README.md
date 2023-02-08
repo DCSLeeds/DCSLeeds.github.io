@@ -1,5 +1,5 @@
 # DCSLeeds.github.io
 
-# Webpage for "Supplementary material for the paper Challenges in the application of machine learning to engineering design"
+# Webpage for "PSS9K: A Dataset of Human Perceptions of Part Similarity with Applications in Engineering Design"
 
 Webpage found [here](https://DCSLeeds.github.io)
