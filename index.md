@@ -17,7 +17,7 @@ The PSS9K dataset can be found [here](https://www.google.com)
     frameborder="0">
 </iframe>
 
-<iframe src="/Figures/scatter_main_annotated.html"
+<iframe src="/Figures/Figure5.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="900"
@@ -26,11 +26,3 @@ The PSS9K dataset can be found [here](https://www.google.com)
     frameborder="0">
 </iframe>
 
-<iframe src="/Figures/scatter_zoomed_annotated.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="900"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
