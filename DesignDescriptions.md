@@ -1,7 +1,3 @@
-layout: page
-title: "Desgin Descriptions in The Development of Machine Learning Based Design Tools"
-permalink: /DesignDescriptions
-
 # Supplimentry Matertial for the paper "Desgin Descriptions in The Development of Machine Learning Based Design Tools" by Alison McKay, Thomas A Hazlehurst, Alan de Pennington and David C Hogg.
 
 The paper can be found here (link to be updated)
