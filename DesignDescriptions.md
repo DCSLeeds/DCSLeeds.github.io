@@ -8,7 +8,7 @@ The paper can be found here (link to be updated)
 
 The following are interactive versions of the plots found in the paper.
 
-<iframe src="/Figures/Figure4.html"
+<iframe src="/Figures/Figure4a.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="900"
