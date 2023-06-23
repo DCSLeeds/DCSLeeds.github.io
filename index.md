@@ -2,7 +2,7 @@
 
 ## This page contains supplementary materials for the papers released under the Design Configuration Spaces project at the University of Leeds
 
-## Supplementary material for the paper _Desgin Descriptions in The Development of Machine Learning Based Design Tools_
+## Supplementary material for the paper _Design Descriptions in The Development of Machine Learning Based Design Tools_
 
 [Link to paper](https://www.google.com) (To be updated)
 
