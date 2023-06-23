@@ -1,4 +1,4 @@
-## Supplementary material for the paper _PSS9K: A Dataset of Human Perceptions of Part Similarity with Applications in Engineering Design_
+## Supplementary material for the paper _PSS9K: A Dataset of Human Perceptions of Part Similarity and it's Applications in Engineering Design_
 
 [Link to paper](https://www.google.com) (To be updated)
 
