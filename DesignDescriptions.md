@@ -1,4 +1,4 @@
-# Supplimentry Matertial for the paper "Desgin Descriptions in The Development of Machine Learning Based Design Tools" by Alison McKay, Thomas A Hazlehurst, Alan de Pennington and David C Hogg.
+# Supplementary Matertial for the paper "Design Descriptions in The Development of Machine Learning Based Design Tools" by Alison McKay, Thomas A Hazlehurst, Alan de Pennington and David C Hogg.
 
 The paper can be found here (link to be updated)
 
